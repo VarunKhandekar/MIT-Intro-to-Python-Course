@@ -1,7 +1,7 @@
 # Problem Set 4C
-# Name: <your name here>
-# Collaborators:
-# Time Spent: x:xx
+# Name: Varun Khandekar
+# Collaborators: N/A
+# Time Spent: N/A
 
 import os
 os.chdir('C:\Python Code\MIT - Intro to Python\PSets\ps4')
