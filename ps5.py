@@ -1,7 +1,8 @@
 # 6.0001/6.00 Problem Set 5 - RSS Feed Filter
-# Name:
-# Collaborators:
-# Time:
+# Name: Varun Khandekar
+# Collaborators: N/A
+# Time: N/A
+
 import os
 os.chdir('C:\Python Code\MIT - Intro to Python\PSets\ps5')
     
